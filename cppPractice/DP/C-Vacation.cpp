@@ -43,11 +43,5 @@ int main(){
 		maxHappiness= max( maxHappiness,dp[n-1][i]);
 
 	cout<< maxHappiness<<" ";
-	// for( int i=0;i<n;i++){
-	// 	for(int j=0;j<3;j++){
-
-	// 		cout<< dp[i][j]<<" " ;
-	// 	}
-	// 	cout<<endl;
-	// }
+	
 }
